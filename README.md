@@ -1,1 +1,1 @@
-	Recognition and classification of motorized vehicles on aerial footages
+Recognition and classification of motorized vehicles on aerial footages
