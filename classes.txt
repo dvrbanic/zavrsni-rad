@@ -1,14 +1,5 @@
 0 - car  
 1 - truck  
-2 - pickup  
-3 - tractor  
-4 - camping car  
-5 - boat  
-6 - motorcycle  
-7 - bus  
-8 - van  
-9 - other  
-10 - small  
-11 - large
-12 - minibus
- 
+2 - bus  
+3 - van  
+4 - other 
